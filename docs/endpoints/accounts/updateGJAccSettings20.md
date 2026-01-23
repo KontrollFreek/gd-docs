@@ -26,6 +26,14 @@ Updates a user's account settings
 
 **twitch** - The user's twitch username
 
+**instagram** - The user's Instagram username
+
+**tiktok** -The user's TikTok handle
+
+**discord** - The user's Discord handle
+
+**custom** - The user's custom one-time authentication token
+
 ## Response
 
 1 if the required parameters are passed, regardless of anything is being updated, -1 otherwise
@@ -48,7 +56,11 @@ data = {
     "cS": 0,
     "yt": "UCZoN2WLAooS6uhREa9Cgpwg",
     "twitter": "DevExit",
-    "twitch": "devexit"
+    "twitch": "devexit",
+    "instagram": "devexit",
+    "tiktok": "",
+    "discord": "devexit",
+    "custom": "Custom123"
 }
 
 req = requests.post('https://www.boomlings.com/database/updateGJAccSettings20.php', data=data)
