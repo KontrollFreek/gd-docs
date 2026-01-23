@@ -19,8 +19,8 @@ Here you will find the enumerations that are related to the level string.
 
 | Key  | Name   | Actual Speed (in Units/s) |
 |:-----|:-------|:--------------------------|
-| 0    | 1x     | 251.16                    |
-| 1    | 0.5x   | 311.58                    |
+| 0    | 1x     | 311.58                    |
+| 1    | 0.5x   | 251.16                    |
 | 2    | 2x     | 387.42                    |
 | 3    | 3x     | 468.00                    |
 | 4    | 4x     | 576.00                    |
