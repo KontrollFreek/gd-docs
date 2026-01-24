@@ -53,20 +53,20 @@ Note: Bolded gauntlet names are the ones that are added in-game, and the rest ar
 | 16 | **Forest** |
 | 17 | Rune |
 | 18 | **Force** |
-| 19 | Spooky |
+| 19 | **Spooky** |
 | 20 | Dragon |
 | 21 | **Water** |
 | 22 | **Haunted** |
 | 23 | Acid |
 | 24 | Witch |
-| 25 | Power |
+| 25 | **Power** |
 | 26 | Potion |
 | 27 | Snake |
 | 28 | Toxic |
 | 29 | **Halloween** |
-| 30 | Treasure |
+| 30 | **Treasure** |
 | 31 | Ghost |
-| 32 | Gem |
+| 32 | **Gem** |
 | 33 | **Inferno** |
 | 34 | **Portal** |
 | 35 | **Strange** |
@@ -86,8 +86,14 @@ Note: Bolded gauntlet names are the ones that are added in-game, and the rest ar
 | 50 | **Split** |
 | 51 | **NCS I** |
 | 52 | **NCS II** |
-| ?  | Space |
-| ?  | Cosmos |
+| 53 | **Space** |
+| 54 | **Cosmos** |
+| 55 | **Random** |
+| 56 | **Chance** |
+| 57 | Future |
+| 58 | Utopia |
+| 59 | Cinema |
+| 60 | Love |
 
 ### Trivia
 
