@@ -13,7 +13,7 @@ A typical Gauntlet Server response is structured with a `key:value:key:value` pa
 
 | Key | Name/Value     | Type       |Description                           |
 | --- | -------------- | ---------- | -------------------------------------|
-| 1   | officalLevels  | **String** | Please refer to [Official Level Structure](/resources/server/restore?id=official-level-structure) |
+| 1   | officalLevels  | **String** | Please refer to [Official Level Structure](/resources/server/restore#official-level-structure) |
 | 2   | stars          | **Integer** | This is how many stars that should be given to your account  |
 | 3   | demons         | **Integer** | This is how many demons that should be added to your account |
 | 4   | jumps          | **Integer** | This is how many jumps you have made on your account of its lifetime|

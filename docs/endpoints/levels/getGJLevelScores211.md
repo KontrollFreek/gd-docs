@@ -65,7 +65,7 @@ def generate_leaderboard_seed(
 
 **s10** - Timely ID -> for dailies and weeklies
 
-**chk** - [See here](/topics/encryption/chk?id=level-leaderboard)
+**chk** - [See here](/topics/encryption/chk#level-leaderboard)
 
 ## Response
 

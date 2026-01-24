@@ -22,17 +22,17 @@ Downloads a user level and info so it can be played.
 
 **gjp** - The [GJP](/topics/gjp.md) of the user who is downloading the level
 
-**udid** - The [udid](/topics/encryption/id?id=udid) of the user who is downloading the level
+**udid** - The [udid](/topics/encryption/id#udid) of the user who is downloading the level
 
-**uuid** - The [uuid](/topics/encryption/id?id=uuid) of the user who is downloading the level
+**uuid** - The [uuid](/topics/encryption/id#uuid) of the user who is downloading the level
 
 **inc** - Unknown function. Set to 1
 
 **extras** - Unknown function. Set to 0
 
-**rs** - [See here](/topics/encryption/id?id=rs)
+**rs** - [See here](/topics/encryption/id#rs)
 
-**chk** - [See here](/topics/encryption/chk?id=download-level)
+**chk** - [See here](/topics/encryption/chk#download-level)
 
 ## Response
 
@@ -42,7 +42,7 @@ Returns a [level object](/resources/server/level.md) along with 2 hashes. All of
 ```
 where:
 - `{level}` is the level object
-- `{hash1}` and `{hash2}` are integrity [hashes](/resources/server/hashes.md?id=downloadgjlevel) the GD client uses to validate the response
+- `{hash1}` and `{hash2}` are integrity [hashes](/resources/server/hashes.md#downloadgjlevel) the GD client uses to validate the response
 
 ## Example
 

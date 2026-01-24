@@ -76,7 +76,7 @@ If the itemID is greater than 1000, it seems to be treated as a special reward (
 
 
 
-This list is then [XOR](/topics/encryption/xor.md)'d and [URL-Safe Base64](/topics/encryption/base64.md) encoded. Then it is separated with its [hash](/resources/server/hashes.md?id=getgjrewards) by a pipe `|`. It also has a random string of 5 characters appended to the front.
+This list is then [XOR](/topics/encryption/xor.md)'d and [URL-Safe Base64](/topics/encryption/base64.md) encoded. Then it is separated with its [hash](/resources/server/hashes.md#getgjrewards) by a pipe `|`. It also has a random string of 5 characters appended to the front.
 
 ## Example
 

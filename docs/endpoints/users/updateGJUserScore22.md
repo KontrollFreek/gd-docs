@@ -48,7 +48,7 @@ Updates a user's data
 
 **accJetpack** - The ID of the user's selected jetpack.
 
-**seed2** - [See here](/topics/encryption/chk?id=user-profile)
+**seed2** - [See here](/topics/encryption/chk#user-profile)
 
 **dinfo** - List of all completed demons (level IDs separated by `,`)
 

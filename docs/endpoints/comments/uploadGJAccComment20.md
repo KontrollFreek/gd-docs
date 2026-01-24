@@ -24,7 +24,7 @@ Posts an account comment
 
 **cType** - The comment type, 0 for level, 1 for user
 
-[**chk**](/topics/encryption/chk?id=comment) - Unsure
+[**chk**](/topics/encryption/chk#comment) - Unsure
 
 ## Response
 

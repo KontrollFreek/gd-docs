@@ -15,9 +15,9 @@ The level start object has the following properties, formatted as `{key},{value}
 | Key  | Name                   | Type                                        | Description                                                                                                    |
 |:-----|:-----------------------|:--------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
 | kA1  | AudioTrack             | **Integer**                                 | The audio track which the level uses |
-| kA2  | Gamemode               | **[Gamemode](/resources/client/level-components/enumerations?id=gamemode)**             | the gamemode the player starts with                                                                            |
+| kA2  | Gamemode               | **[Gamemode](/resources/client/level-components/enumerations#gamemode)**             | the gamemode the player starts with                                                                            |
 | kA3  | Mini Mode              | **bool**                                    | determines whether the player starts off as mini Mode                                                          |
-| kA4  | Speed                  | **[Speed](/resources/client/level-components/enumerations?id=speed)**                | the speed of the level at the start                                                                            |
+| kA4  | Speed                  | **[Speed](/resources/client/level-components/enumerations#speed)**                | the speed of the level at the start                                                                            |
 | kA5  | Obj-2 Blending         | **bool**                                    | (deprecated since 1.9) Whether Object-2 (color channel 1) uses blending or not                                 |
 | kA6  | Background Texture ID  | **integer**                                 | the ID of the background texture that is being used in the level<br/>(enumerated in the same order as appears) |
 | kA7  | Ground Texture ID      | **integer**                                 | the ID of the ground texture that is being used in the level<br/>(enumerated in the same order as appears)     |

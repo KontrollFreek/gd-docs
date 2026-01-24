@@ -139,7 +139,7 @@ GS_11 Contains the reward data for the Timely Chests you have opened
 |:----|:------|
 | `<k>{ChestType}_{ChestID}</k>` | reward Object |
 | `k_{number}` | RewardItems -> the number corresponds to how many RewardItems the player will recieve |
-| `kCEK` | The [encoder keys](/resources/client/gamesave/kCEK?id=kcek-8-and-9-structure) |
+| `kCEK` | The [encoder keys](/resources/client/gamesave/kCEK#kcek-8-and-9-structure) |
 
 ### Chest Types
 
@@ -203,7 +203,7 @@ GS_19 Contains the reward data for the Treasure room chests you have opened
 |:----|:------|
 | `<k>{ChestID}</k>` | reward Object |
 | `k_{number}` | RewardItems -> the number corresponds to how many RewardItems the player will recieve |
-| `kCEK` | The [encoder keys](/resources/client/gamesave/kCEK?id=kcek-8-and-9-structure) |
+| `kCEK` | The [encoder keys](/resources/client/gamesave/kCEK#kcek-8-and-9-structure) |
 
 ## GS_20
 
@@ -218,7 +218,7 @@ GS_21 Contains the reward data for the gauntlets you have completed
 | `g_{GauntletID}` | the gauntlet number |
 | `00{ChestID}` | ChestIDs for Reward Chests |
 | `k_{number}` | RewardItems -> the number corresponds to how many RewardItems the player will recieve |
-| `kCEK` | The [encoder keys](/resources/client/gamesave/kCEK?id=kcek-8-and-9-structure) |
+| `kCEK` | The [encoder keys](/resources/client/gamesave/kCEK#kcek-8-and-9-structure) |
 
 ### Chest IDs
 
@@ -274,7 +274,7 @@ GS_25 Contains the reward data for every weekly demon you have completed
 |:----|:------|
 | `d100{number}` | The Timely ID of the weekly Demon you have beaten |
 | `k_{number}` | RewardItems -> the number corresponds to how many RewardItems the player will recieve |
-| `kCEK` | The [encoder keys](/resources/client/gamesave/kCEK?id=kcek-8-and-9-structure) |
+| `kCEK` | The [encoder keys](/resources/client/gamesave/kCEK#kcek-8-and-9-structure) |
 
 ## GS_26
 

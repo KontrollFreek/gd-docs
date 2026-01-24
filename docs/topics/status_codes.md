@@ -9,7 +9,7 @@ Events over the Geometry Dash servers usually send an error code denoting that t
 | Code |                Name                                              |                                   Description                                       |
 |------|------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | -1   | Invalid Request                                                  | A parameter in your [HTTP request](/endpoints/generic.md) to the server was invalid.|
-| -2   | [Common](/topics/status_codes?id=endpoint-specific-status-codes) | This status code is commonly used in multiple endpoints either for `taken` things, or theres none of something. |
+| -2   | [Common](/topics/status_codes#endpoint-specific-status-codes) | This status code is commonly used in multiple endpoints either for `taken` things, or theres none of something. |
 
 ### Endpoint-specific Status Codes
 

@@ -10,7 +10,7 @@ Your CCGameManager.dat File contains a lot of information regarding your account
 | :-------| :--- | :-----------|
 | bgVolume| Float| any value between 0 - 1 |
 | sfxVolume| Float| any value between 0 - 1 |
-| playerUDID| [UDID](/topics/encryption/id?id=udid)| The UDID of the user |
+| playerUDID| [UDID](/topics/encryption/id#udid)| The UDID of the user |
 | playerName| String| The In-game Name of the player|
 | playerUserID| Integer| The userID of the player|
 | playerFrame| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's cube |
@@ -113,29 +113,29 @@ These keys were used in old versions of the game but are now obsolete.
 
 | Key     | Type |
 | :-------| :--- |
-| [GS_value](/resources/client/gamesave/GS_Value?id=gs-value-structure)| Player Stats  |
-| [GS_completed](/resources/client/gamesave/GS_Value?id=gs_completed)| Completed Levels  |
-| [GS_3](/resources/client/gamesave/GS_Value?id=gs_3)| Completed levels with coins `{levelID}_{number of coins aquired from level}` |
-| [GS_4](/resources/client/gamesave/GS_Value?id=gs_4)| Completed levels with coins `{levelID}_{number of coins aquired from level}` |
-| [GS_5](/resources/client/gamesave/GS_Value?id=gs_5)| Completed Mappacks + rewarded stars `<k>pack_{MappackID}</k><s>{Stars rewarded}</s>` |
-| [GS_6](/resources/client/gamesave/GS_Value?id=gs_6)| all Purchased Icons/Colours in the shops `<k>{ListingID}</k><s>{Price}</s>` |
-| [GS_7](/resources/client/gamesave/GS_Value?id=gs_7)| level progress `<k>{levelID}</k><s>{percentage}</s>` |
-| [GS_8](/resources/client/gamesave/GS_Value?id=gs_8)| Unused |
-| [GS_9](/resources/client/gamesave/GS_Value?id=gs_9)| How many stars downloaded levels give `<k>{levelID}</k><s>{rewardedStars}</s>` |
-| [GS_10](/resources/client/gamesave/GS_Value?id=gs_10)| Offical level progress `<k>{ID}</k><s>{percentage}</s>` |
-| [GS_11](/resources/client/gamesave/GS_Value?id=gs_11)| All rewards gained from Daily Chests |
-| [GS_12](/resources/client/gamesave/GS_Value?id=gs_12)| Contains [Quests](/resources/client/gamesave/quests.md)|
+| [GS_value](/resources/client/gamesave/GS_Value#gs-value-structure)| Player Stats  |
+| [GS_completed](/resources/client/gamesave/GS_Value#gs_completed)| Completed Levels  |
+| [GS_3](/resources/client/gamesave/GS_Value#gs_3)| Completed levels with coins `{levelID}_{number of coins aquired from level}` |
+| [GS_4](/resources/client/gamesave/GS_Value#gs_4)| Completed levels with coins `{levelID}_{number of coins aquired from level}` |
+| [GS_5](/resources/client/gamesave/GS_Value#gs_5)| Completed Mappacks + rewarded stars `<k>pack_{MappackID}</k><s>{Stars rewarded}</s>` |
+| [GS_6](/resources/client/gamesave/GS_Value#gs_6)| all Purchased Icons/Colours in the shops `<k>{ListingID}</k><s>{Price}</s>` |
+| [GS_7](/resources/client/gamesave/GS_Value#gs_7)| level progress `<k>{levelID}</k><s>{percentage}</s>` |
+| [GS_8](/resources/client/gamesave/GS_Value#gs_8)| Unused |
+| [GS_9](/resources/client/gamesave/GS_Value#gs_9)| How many stars downloaded levels give `<k>{levelID}</k><s>{rewardedStars}</s>` |
+| [GS_10](/resources/client/gamesave/GS_Value#gs_10)| Offical level progress `<k>{ID}</k><s>{percentage}</s>` |
+| [GS_11](/resources/client/gamesave/GS_Value#gs_11)| All rewards gained from Daily Chests |
+| [GS_12](/resources/client/gamesave/GS_Value#gs_12)| Contains [Quests](/resources/client/gamesave/quests.md)|
 | [GS_14](/resources/client/gamesave/GS_Value#GS_14)| Daily/Challenges rewards |
-| [GS_15](/resources/client/gamesave/GS_Value?id=gs_15)| Contains Upcoming [Quests](/resources/client/gamesave/quests.md)|
-| [GS_16](/resources/client/gamesave/GS_Value?id=gs_16)| Daily/Weekly level progress `<k>{Daily/WeeklyID}</k><s>{percentage}</s>` |
-| [GS_17](/resources/client/gamesave/GS_Value?id=gs_17)| Daily/Weekly Stars `<k>{Daily/WeeklyID}</k><s>{Stars}</s>` |
-| [GS_18](/resources/client/gamesave/GS_Value?id=gs_18)| Gauntlet Level Progress `<k>{levelID}</k><s>{percentage}</s>` |
+| [GS_15](/resources/client/gamesave/GS_Value#gs_15)| Contains Upcoming [Quests](/resources/client/gamesave/quests.md)|
+| [GS_16](/resources/client/gamesave/GS_Value#gs_16)| Daily/Weekly level progress `<k>{Daily/WeeklyID}</k><s>{percentage}</s>` |
+| [GS_17](/resources/client/gamesave/GS_Value#gs_17)| Daily/Weekly Stars `<k>{Daily/WeeklyID}</k><s>{Stars}</s>` |
+| [GS_18](/resources/client/gamesave/GS_Value#gs_18)| Gauntlet Level Progress `<k>{levelID}</k><s>{percentage}</s>` |
 | [GS_19](/resources/client/gamesave/GS_Value#GS_19)| All the Rewards from unlocked chests in the treasure room |
-| [GS_20](/resources/client/gamesave/GS_Value?id=gs_20)| Demon Keys |
+| [GS_20](/resources/client/gamesave/GS_Value#gs_20)| Demon Keys |
 | [GS_21](/resources/client/gamesave/GS_Value#GS_21)| All rewards for Completed Gauntlets + rewards for Demon quest/social medias   |
-| [GS_22](/resources/client/gamesave/GS_Value?id=gs_22)| Rewards from Geometry Dash world |
-| [GS_23](/resources/client/gamesave/GS_Value?id=gs_23)| Gauntlet Level Progress `<k>{levelID}</k><s>{percentage}</s>` |
-| [GS_24](/resources/client/gamesave/GS_Value?id=gs_24)| Daily/Weekly Percentage |
+| [GS_22](/resources/client/gamesave/GS_Value#gs_22)| Rewards from Geometry Dash world |
+| [GS_23](/resources/client/gamesave/GS_Value#gs_23)| Gauntlet Level Progress `<k>{levelID}</k><s>{percentage}</s>` |
+| [GS_24](/resources/client/gamesave/GS_Value#gs_24)| Daily/Weekly Percentage |
 | [GS_25](/resources/client/gamesave/GS_Value#GS_25)| All the rewards from completed weekly Demons |
 | [GS_26](/resources/client/gamesave/GS_Value#GS_26)| Your active path |
 | [GS_27](/resources/client/gamesave/GS_Value#GS_27)| All the list rewards |

@@ -22,7 +22,7 @@ Sends a star suggestion for a level
 
 **uuid** - Your player ID (different from account ID)
 
-**chk** - [See here](/topics/encryption/chk.md?id=rate)
+**chk** - [See here](/topics/encryption/chk.md#rate)
 
 ### Optional Parameters
 

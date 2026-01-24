@@ -128,7 +128,7 @@ where:
   - `total` - total number of levels for the query
   - `offset` - offset from which the current page starts
   - `amount` - number of levels per page (always 10 for the gd servers)
-- `hash` is a hash of every level, see [Hashes](/resources/server/hashes.md?id=getgjlevels)
+- `hash` is a hash of every level, see [Hashes](/resources/server/hashes.md#getgjlevels)
 <!-- should the hash be explained here or on its own page like how the old docs had a page for CHK -->
 <!-- no it should be explained on a separate page -Unsimply <3 -->
 
