@@ -1,17 +1,14 @@
 # Introduction
 
-Welcome to the Geometry Dash documentation project. On this website, you will find lots of information regarding the popular indie game **Geometry Dash**
-
-> If you can't find what you're looking for on here, join our [Discord Server](https://discord.gg/gd-programming-646101505417674758) and we can assist you!
+Welcome to the Geometry Dash documentation project. On this website, you will find lots of information regarding the popular indie game **Geometry Dash!**
 
 ## Contributions
 
-> If you wish to contribute to this project, please submit a [Pull Request](https://github.com/Wyliemaster/gddocs) in our GitHub repository
-
+> If you wish to contribute to this project, please submit a [Pull Request](https://github.com/Rifct/gd-docs) in our GitHub repository.
 
 ## Community Projects
 
-> Over the years, many community members have developed their own tools and software which interact with Geometry Dash and its servers
+> Over the years, many community members have developed their own tools and software which interact with Geometry Dash and its servers.
 
 ### Tools and Software
 
@@ -41,11 +38,5 @@ Modded client for Windows and Android which includes hundreds of mods
 - **[iCreate Pro](https://geticreate.pro/) by [Camila314](https://github.com/camila314)**  
 Modded client for iOS which includes 30+ mods
 
-- **[Crystal](https://github.com/ninXout/Crystal-Client/tree/main) by [ninXout](https://github.com/ninXout)**  
-Modded client for MacOS which includes 60+ mods
-
 - **[BetterEdit](https://github.com/HJfod/BetterEdit) by [HJFod](https://github.com/HJfod/)**  
 An extension to the GD editor with many Quality of life enhancements
-
-- **[Textureldr](https://github.com/poweredbypie/textureldr) by [PoweredByPie](https://github.com/PoweredByPie/)**  
-Integrated Texture pack system
