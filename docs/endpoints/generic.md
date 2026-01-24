@@ -1,4 +1,4 @@
-# Sending requests
+# Sending Requests
 
 When interacting with Geometry Dash's Private API, there is a set of rules which you must follow. Failure to do that will result in the error `-1`.
 
