@@ -1,4 +1,4 @@
-# gd docs
+# Geometry Dash Documentation
 
 based off the work of https://github.com/Wyliemaster/gddocs
 
