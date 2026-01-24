@@ -3,6 +3,10 @@ export default [
     "text": "Endpoints List",
     "items": [
       {
+        "text": "Sending Requests",
+        "link": "/endpoints/generic"
+      },
+      {
         "text": "Accounts",
         "items": [
           {
@@ -321,10 +325,6 @@ export default [
           }
         ],
         "collapsed": true
-      },
-      {
-        "text": "Important Info",
-        "link": "/endpoints/generic"
       }
     ],
     "collapsed": false
