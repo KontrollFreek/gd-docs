@@ -8,7 +8,7 @@ Download a message.
 
 **accountID** - The person's account ID
 
-**gjp2** - The person's [GJP2](/topics/encryption/gjp.md)
+**gjp2** - The person's [GJP2](/topics/gjp.md)
 
 **messageID** - The ID of the message to read
 

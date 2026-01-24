@@ -10,7 +10,7 @@ Exits from a multiplayer lobby. This endpoint is hosted on `geometrydash.com`, n
 
 **accountID** - The player's account ID
 
-**gjp2** - The player's [GJP2](/topics/encryption/gjp.md)
+**gjp2** - The player's [GJP2](/topics/gjp.md)
 
 **secret** - Wmfv3899gc9
 

@@ -20,7 +20,7 @@ Gets the leaderboard scores.
 
 **accountID** - The account ID of the user viewing the leaderboards
 
-**gjp2** - The user's [GJP2](/topics/encryption/gjp.md)
+**gjp2** - The user's [GJP2](/topics/gjp.md)
 
 **type** - Can be `top`, `relative`, `friends`, or `creators`. If left out it defaults to `top`
 

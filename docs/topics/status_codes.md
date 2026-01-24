@@ -8,7 +8,7 @@ Events over the Geometry Dash servers usually send an error code denoting that t
 
 | Code |                Name                                              |                                   Description                                       |
 |------|------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| -1   | Invalid Request                                                  | A parameter in your [HTTP request](/endpoints/request.md) to the server was invalid.|
+| -1   | Invalid Request                                                  | A parameter in your [HTTP request](/endpoints/generic.md) to the server was invalid.|
 | -2   | [Common](/topics/status_codes?id=endpoint-specific-status-codes) | This status code is commonly used in multiple endpoints either for `taken` things, or theres none of something. |
 
 ### Endpoint-specific Status Codes
@@ -59,7 +59,7 @@ Events over the Geometry Dash servers usually send an error code denoting that t
 | Code | Name | Description |
 |:-----|:-----|:------------|
 | `-10` | Permanent comment ban | If Robtop has deemed you worthy of a permanent comment ban |
-| `temp_{time}_{reason}` | Temporary Comment Ban | If you have recieved a temporary ban from Robtop or an [Elder Moderator](/topics/moderators.md)
+| `temp_{time}_{reason}` | Temporary Comment Ban | If you have recieved a temporary ban from Robtop or an Elder Moderator
 
 | Key | description |
 |:----|:------------|

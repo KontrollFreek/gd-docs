@@ -41,7 +41,7 @@ Fade Tags are used to fade in a block of text on screen instead of making it app
 
 **Usage:** `Hello, <i100>world!</i>`
 
-![fade-in preview](../assets/images/fadein_tag.gif)
+![fade-in preview](/assets/images/fadein_tag.gif)
 
 ## Delay Tags
 
@@ -49,7 +49,7 @@ Delay tags are used to create a delay before a specific string in dialog boxes. 
 
 **Usage:** `uhh<d030>.<d030>.<d030>.`
 
-![delay preview](../assets/images/delay_tag.gif)
+![delay preview](/assets/images/delay_tag.gif)
 
 ## Shake Tags
 
@@ -57,7 +57,7 @@ Shake Tags are used to render shaky text on screen. The number denotes the inten
 
 **Usage:** `<s260>CHOPPER!</s>`
 
-![shake preview](../assets/images/shake_tag.gif)
+![shake preview](/assets/images/shake_tag.gif)
 
 ## Notes
 

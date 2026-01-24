@@ -13,22 +13,22 @@ Your CCGameManager.dat File contains a lot of information regarding your account
 | playerUDID| [UDID](/topics/encryption/id?id=udid)| The UDID of the user |
 | playerName| String| The In-game Name of the player|
 | playerUserID| Integer| The userID of the player|
-| playerFrame| [Icon](enumerations.md)| The ID of the player's cube |
-| playerShip| [Icon](enumerations.md)| The ID of the player's ship |
-| playerBall| [Icon](enumerations.md)| The ID of the player's ball |
-| playerBird| [Icon](enumerations.md)| The ID of the player's UFO |
-| playerDart| [Icon](enumerations.md)| The ID of the player's wave |
-| playerRobot| [Icon](enumerations.md)| The ID of the player's robot |
-| playerSpider| [Icon](enumerations.md)| The ID of the player's spider |
-| playerSwing| [Icon](enumerations.md)| The ID of the player's swing |
-| playerColor| [Icon](enumerations.md)| The ID of the player's primary color |
-| playerColor2| [Icon](enumerations.md)| The ID of the player's secondary color |
-| playerColor3| [Icon](enumerations.md)| The ID of the player's glow color, -1 if same as secondary color |
-| playerStreak| [Icon](enumerations.md)| The ID of the player's trail |
-| playerShipStreak| [Icon](enumerations.md)| The ID of the player's ship streak |
-| playerDeathEffect| [Icon](enumerations.md)| The ID of the player's death effect |
-| playerJetpack| [Icon](enumerations.md)| The ID of the player's jetpack |
-| playerIconType| [Icon](enumerations.md)| The Index of the player's IconType |
+| playerFrame| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's cube |
+| playerShip| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's ship |
+| playerBall| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's ball |
+| playerBird| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's UFO |
+| playerDart| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's wave |
+| playerRobot| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's robot |
+| playerSpider| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's spider |
+| playerSwing| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's swing |
+| playerColor| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's primary color |
+| playerColor2| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's secondary color |
+| playerColor3| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's glow color, -1 if same as secondary color |
+| playerStreak| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's trail |
+| playerShipStreak| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's ship streak |
+| playerDeathEffect| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's death effect |
+| playerJetpack| [Icon](/resources/client/level-components/enumerations.md)| The ID of the player's jetpack |
+| playerIconType| [Icon](/resources/client/level-components/enumerations.md)| The Index of the player's IconType |
 | playerGlow| Bool| if Glow is enabled or not |
 | secretNumber| Integer| the answer to `cod3breaker` in the vault of secrets |
 | hasRP       | Bool | If the player is a moderator |
@@ -124,9 +124,9 @@ These keys were used in old versions of the game but are now obsolete.
 | [GS_9](/resources/client/gamesave/GS_Value?id=gs_9)| How many stars downloaded levels give `<k>{levelID}</k><s>{rewardedStars}</s>` |
 | [GS_10](/resources/client/gamesave/GS_Value?id=gs_10)| Offical level progress `<k>{ID}</k><s>{percentage}</s>` |
 | [GS_11](/resources/client/gamesave/GS_Value?id=gs_11)| All rewards gained from Daily Chests |
-| [GS_12](/resources/client/gamesave/GS_Value?id=gs_12)| Contains [Quests](resources/client/gamesave/quests.md)|
+| [GS_12](/resources/client/gamesave/GS_Value?id=gs_12)| Contains [Quests](/resources/client/gamesave/quests.md)|
 | [GS_14](/resources/client/gamesave/GS_Value#GS_14)| Daily/Challenges rewards |
-| [GS_15](/resources/client/gamesave/GS_Value?id=gs_15)| Contains Upcoming [Quests](resources/client/gamesave/quests.md)|
+| [GS_15](/resources/client/gamesave/GS_Value?id=gs_15)| Contains Upcoming [Quests](/resources/client/gamesave/quests.md)|
 | [GS_16](/resources/client/gamesave/GS_Value?id=gs_16)| Daily/Weekly level progress `<k>{Daily/WeeklyID}</k><s>{percentage}</s>` |
 | [GS_17](/resources/client/gamesave/GS_Value?id=gs_17)| Daily/Weekly Stars `<k>{Daily/WeeklyID}</k><s>{Stars}</s>` |
 | [GS_18](/resources/client/gamesave/GS_Value?id=gs_18)| Gauntlet Level Progress `<k>{levelID}</k><s>{percentage}</s>` |

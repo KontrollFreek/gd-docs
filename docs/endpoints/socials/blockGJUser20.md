@@ -8,7 +8,7 @@ Blocks a user.
 
 **accountID** - The blocking person's account ID
 
-**gjp2** - The blocking person's [GJP2](/topics/encryption/gjp.md)
+**gjp2** - The blocking person's [GJP2](/topics/gjp.md)
 
 **targetAccountID** - The account ID of the person being blocked
 

@@ -10,7 +10,7 @@ Uploads a comment (chat message?) to a multiplayer lobby. This endpoint is hoste
 
 **accountID** - The commenter's account ID
 
-**gjp2** - The commenter's [GJP2](/topics/encryption/gjp.md)
+**gjp2** - The commenter's [GJP2](/topics/gjp.md)
 
 **extra** - 10 random characters from `[A-Za-z0-9]`
 

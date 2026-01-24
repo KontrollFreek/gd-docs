@@ -22,7 +22,7 @@ Gets the rewards from the wraith vault depending on the entered code, which can 
 
 **accountID** - Account ID of the user
 
-**gjp2** - The user's [GJP2](/topics/encryption/gjp.md)
+**gjp2** - The user's [GJP2](/topics/gjp.md)
 
 **uuid** - Seemingly a random number also used for identifying someone
 

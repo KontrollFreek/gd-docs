@@ -8,7 +8,7 @@ Sends a message to a user
 
 **accountID** - Account ID of the user sending the message
 
-**gjp2** - The [GJP2](/topics/encryption/gjp.md) of the user sending the message
+**gjp2** - The [GJP2](/topics/gjp.md) of the user sending the message
 
 **toAccountID** - Account ID of the user retrieving the message
 

@@ -8,7 +8,7 @@ Fetches the leaderboard for a level and submits your level stats to the server
 
 **accountID** - The user's account ID
 
-**gjp2** - The user's [GJP2](/topics/encryption/gjp.md)
+**gjp2** - The user's [GJP2](/topics/gjp.md)
 
 **levelID** - The ID of the level
 
@@ -55,7 +55,7 @@ def generate_leaderboard_seed(
 
 **s5** - Random number -> `(((GJGameLevel->0x1B8 ? 2000.0 : 0) + rand()) * 4.6566e-10) * 1999.0`
 
-**s6** - List of PB differences (For example from 0 to 50, then 69, it would be `50,19`) [XOR'd](topics/encryption/xor.md) with `41274` and [Base64](topics/encryption/base64.md) encoded
+**s6** - List of PB differences (For example from 0 to 50, then 69, it would be `50,19`) [XOR'd](/topics/encryption/xor.md) with `41274` and [Base64](/topics/encryption/base64.md) encoded
 
 **s7** - Randomly Generated 10 character string
 

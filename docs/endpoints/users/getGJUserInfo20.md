@@ -20,7 +20,7 @@ Gets info about a user
 
 **accountID** - Your accountID
 
-**gjp2** - Your [GJP](/topics/encryption/gjp.md)
+**gjp2** - Your [GJP](/topics/gjp.md)
 
 ## Response
 

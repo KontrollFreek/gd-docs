@@ -8,7 +8,7 @@ Unblocks a user.
 
 **accountID** - The unblocking person's account ID
 
-**gjp2** - The unblocking person's [GJP2](/topics/encryption/gjp.md)
+**gjp2** - The unblocking person's [GJP2](/topics/gjp.md)
 
 **targetAccountID** - The account ID of the person getting unblocked
 

@@ -13,7 +13,7 @@
 | `total`         | The total friend requests recieved                         | `True`   |
 | `getSent`       | If the server should fetch requests sent by the player     | `True`   |
 | `accountID`     | The player's account ID                                    | `False`  |
-| `gjp2`          | The player's [GJP2](/topics/encryption/gjp.md)             | `False`  |
+| `gjp2`          | The player's [GJP2](/topics/gjp.md)             | `False`  |
 | `secret`        | The common secret: `Wmfd2893gb7`                           | `False`  |
 
 ## Response

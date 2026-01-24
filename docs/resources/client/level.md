@@ -14,10 +14,10 @@ A level is a playable object in Geometry Dash, namely coming with data that expl
 | k2   | Level Name                     | **string**                                                       | the name of the level                                                            |
 | k3   | Description                    | **string**                                                       | the level description, encoded in [base64](https://en.wikipedia.org/wiki/Base64) |
 | k4   | Start Level Object             | **[Start Object String](/resources/client/level-components/level-start.md)** | the inner level string, or the playable level                  |
-| k5   | Creator                        | **[user](./user.md)Name**                                        | the name of the level creator                                                    |
+| k5   | Creator                        | **[user](/resources/server/user.md)Name**                                        | the name of the level creator                                                    |
 | k6   | UserID                         | **integer**                                                      | The UserID of the level Creator                                                  |
 | k7   | level difficulty               | **integer**                                                      | the difficulty the level has                                                     |
-| k8   | Official Song ID               | **[Audio Track](/reference?id=audio-track)**                     | the official Song ID (if used)                                                   |
+| k8   | Official Song ID               | **Audio Track**                     | the official Song ID (if used)                                                   |
 | k9   | Rating                         | **integer**                                                      | The rating a level has                                                           |
 | k10  | RatingSum                      | **integer**                                                      | the sum of all the ratings a level has                                           |
 | k11  | Downloads                      | **integer**                                                      | the amount of times the level's been downloaded                                  |
@@ -32,7 +32,7 @@ A level is a playable object in Geometry Dash, namely coming with data that expl
 | k20  | Practice Mode Percentage       | **integer**                                                      | the max percentage that has been achieved in practice mode in this level         |
 | k21  | levelType                      | **Integer**                                                         | The Level Type (1 = Official, 2 = Local, 3 = Saved, 4 = Online)                  |
 | k22  | Like Rating                    | **integer**                                                      | the level's like rating (`likes - dislikes`)                                     |
-| k23  | Length                         | **[Length](enumerations.md)**                                    | the level's length                                                               |
+| k23  | Length                         | **[Length](/resources/client/level-components/enumerations.md)**                                    | the level's length                                                               |
 | k24  | Dislikes                       | **integer**                                                      | how many dislikes a level has (unused)                                           |
 | k25  | isDemon                        | **Bool**                                                         | if the level is demon or not                                                     |
 | k26  | Stars                          | **integer**                                                      | the stars the level is worth                                                     |
@@ -45,7 +45,7 @@ A level is a playable object in Geometry Dash, namely coming with data that expl
 | k38 | isUnlocked                     | **Bool**                                                         | is Official level Unlocked                                                       |
 | k39 | level Size                     | **integer**                                                      | `this->levelSize = std::floor(this->levelString.length() * 0.152);`              |
 | k40 | Build Version                  | **integer**                                                      | the games build version                                                          |
-| k41 | Password                       | **integer**                                                      | the [password]() <!-- local gamesave password topic link --> set for the level   |
+| k41 | Password                       | **integer**                                                      | the password <!-- local gamesave password topic link --> set for the level   |
 | k42 | Original                       | **integer**                                                      | The ID the of the original level (if the level was copied)           |
 | k43 | Two-Player Mode                | **Bool**                                                         | If the level is 2 player mode                                                    |
 | k45 | Custom Song ID                 | **integer**                                                      | the custom Song ID (if used)                                                     |

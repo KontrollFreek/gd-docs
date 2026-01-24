@@ -10,13 +10,13 @@ Uploads a created level to the servers.
 
 **accountID** - The uploader's account ID
 
-**gjp2** - The uploader's [GJP2](./topics/encryption/gjp.md)
+**gjp2** - The uploader's [GJP2](/topics/gjp.md)
 
 **listID** - The ID of the list if updating to a newer version, otherwise 0
 
 **listName** - The name of the list, in plain text
 
-**listDesc** - The description of the list, in [URL-safe base64](./topics/encryption/base64.md)
+**listDesc** - The description of the list, in [URL-safe base64](/topics/encryption/base64.md)
 
 **listVersion** - The version number of the level
 
@@ -28,7 +28,7 @@ Uploads a created level to the servers.
 
 **listLevels** - All level IDs included in the list. Each ID is separated by `,`
 
-**seed** - A mandatory [chk value](./topics/encryption/chk.md) generated from the first 50 characters of the listLevels parameter, followed by the accountID. TODO!!!
+**seed** - A mandatory [chk value](/topics/encryption/chk.md) generated from the first 50 characters of the listLevels parameter, followed by the accountID. TODO!!!
 
 **seed2** - 5 randomly generated characters from \[A-Za-z0-9]
 

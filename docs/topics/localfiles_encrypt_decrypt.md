@@ -11,7 +11,7 @@ Both files share the same process for decryption and encryption.
 
 ### Windows
 
-Local game files are decrypted in the following order: Apply XOR function with key `0xB` (`11`), then apply [B64 decoding](topics/encryption/base64), the resulting byte sequence will be a [gzip](https://zlib.net) compressed string which needs to be decompressed/inflated.
+Local game files are decrypted in the following order: Apply XOR function with key `0xB` (`11`), then apply [B64 decoding](/topics/encryption/base64), the resulting byte sequence will be a [gzip](https://zlib.net) compressed string which needs to be decompressed/inflated.
 
 Simple XOR function differs can be written like this:
 
@@ -106,7 +106,7 @@ Note that you don't actually need to reencrypt the save file in order for the ga
 
 ### Windows
 
-Encryption is done pretty much the same way but with opposite operations and order. So the sequence for encrypting can be defined as: [gzip](https://zlib.net) compress/deflate -> [Base64](topics/encryption/base64) encode -> XOR using `0xb` (`11`) as a key.
+Encryption is done pretty much the same way but with opposite operations and order. So the sequence for encrypting can be defined as: [gzip](https://zlib.net) compress/deflate -> [Base64](/topics/encryption/base64) encode -> XOR using `0xb` (`11`) as a key.
 
 <!-- tabs:start -->
 

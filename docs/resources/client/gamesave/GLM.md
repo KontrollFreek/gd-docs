@@ -8,7 +8,7 @@ GLM_01 is used to store all progress the player has made on official levels
 
 | Key | description |
 |:----|:------------|
-| kCEK 4 | [level data](resources/client/level.md) |
+| kCEK 4 | [level data](/resources/client/level.md) |
 
 ## GLM_02
 
@@ -17,7 +17,7 @@ GLM_02 was used in the earliest versions of the game back when your local levels
 | Key | description |
 |:----|:------------|
 | k_{Num} | what place the level is placed in your level list |
-| kCEK 4 | [level data](resources/client/level.md) |
+| kCEK 4 | [level data](/resources/client/level.md) |
 
 ## GLM_03
 
@@ -25,7 +25,7 @@ GLM_03 is used to store progress the player has done on all online levels
 
 | Key | description |
 |:----|:------------|
-| kCEK 4 | [level data](resources/client/level.md) |
+| kCEK 4 | [level data](/resources/client/level.md) |
 
 ## GLM_04
 
@@ -129,7 +129,7 @@ GLM_10 contains every daily level you have ever had progress on
 | Key | Description |
 |:----|:------------|
 | {timelyID} | A dictionary which contains the Encoder key for levels |
-| kCEK 4 | The Encoder key which contains [level data](resources/client/level.md)
+| kCEK 4 | The Encoder key which contains [level data](/resources/client/level.md)
 
 ## GLM_11
 
@@ -162,7 +162,7 @@ GLM_16 contains every Gauntlet level you have ever had progress on
 | Key | Description |
 |:----|:------------|
 | {timelyID} | A dictionary which contains the Encoder key for levels |
-| kCEK 4 | The Encoder key which contains [level data](resources/client/level.md)
+| kCEK 4 | The Encoder key which contains [level data](/resources/client/level.md)
 
 ## GLM_17
 
@@ -190,7 +190,7 @@ GLM_20 is a dictionary of all the editor smart templates you have saved
 
 | Key | description |
 |:----|:------------|
-| kCEK 10 | [level data](resources/client/gamesave/template.md) |
+| kCEK 10 | [level data](/resources/client/gamesave/template.md) |
 
 ## GLM_21 
 
@@ -202,4 +202,4 @@ GLM_22 is a dictionary of all your favorited lists
 
 | Key | description |
 |:----|:------------|
-| kCEK 12 | [level data](resources/client/gamesave/list.md) |
+| kCEK 12 | [level data](/resources/client/gamesave/list.md) |
