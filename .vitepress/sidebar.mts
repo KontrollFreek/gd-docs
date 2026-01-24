@@ -415,15 +415,15 @@ export default [
                 "link": "/resources/client/level-components/capacity-string"
               },
               {
-                "text": "Client Color String Resource",
+                "text": "Color String",
                 "link": "/resources/client/level-components/color-string"
               },
               {
-                "text": "Enumerations (Enums)",
+                "text": "Enumerations",
                 "link": "/resources/client/level-components/enumerations"
               },
               {
-                "text": "Client Guideline String Resource",
+                "text": "Guideline String",
                 "link": "/resources/client/level-components/guideline-string"
               },
               {
@@ -431,11 +431,11 @@ export default [
                 "link": "/resources/client/level-components/level-colors"
               },
               {
-                "text": "Client Level Start String",
+                "text": "Level Start String",
                 "link": "/resources/client/level-components/level-start"
               },
               {
-                "text": "Client Level String Resource",
+                "text": "Level String",
                 "link": "/resources/client/level-components/level-string"
               },
               {
@@ -446,11 +446,11 @@ export default [
             "collapsed": true
           },
           {
-            "text": "Client Gamesave Resource",
+            "text": "Gamesave",
             "link": "/resources/client/gamesave"
           },
           {
-            "text": "Client Level Resource",
+            "text": "Saved Level",
             "link": "/resources/client/level"
           },
           {
@@ -468,15 +468,15 @@ export default [
         "text": "Server",
         "items": [
           {
-            "text": "Server Comment Resource",
+            "text": "Comment Object",
             "link": "/resources/server/comment"
           },
           {
-            "text": "Server Friend Request Resource",
+            "text": "Friend Request Object",
             "link": "/resources/server/friendrequest"
           },
           {
-            "text": "Server Gauntlet Resource",
+            "text": "Gauntlet Object",
             "link": "/resources/server/gauntlet"
           },
           {
@@ -484,35 +484,35 @@ export default [
             "link": "/resources/server/hashes"
           },
           {
-            "text": "Server Leaderboard Score Resource",
+            "text": "Leaderboard Score Object",
             "link": "/resources/server/leaderboardscore"
           },
           {
-            "text": "Server Level Resource",
+            "text": "Level Object",
             "link": "/resources/server/level"
           },
           {
-            "text": "Server List Resource",
+            "text": "List Object",
             "link": "/resources/server/list"
           },
           {
-            "text": "Server Map Pack Resource",
+            "text": "Map Pack Object",
             "link": "/resources/server/mappack"
           },
           {
-            "text": "Server Message Resource",
+            "text": "Message Object",
             "link": "/resources/server/message"
           },
           {
-            "text": "Server Restore Resource",
+            "text": "Restore Object",
             "link": "/resources/server/restore"
           },
           {
-            "text": "Client & Server Song Resource",
+            "text": "Song Object",
             "link": "/resources/server/song"
           },
           {
-            "text": "Server User Resource",
+            "text": "User Object",
             "link": "/resources/server/user"
           }
         ],
@@ -575,7 +575,7 @@ export default [
         "link": "/topics/level_passwords"
       },
       {
-        "text": "Game Files Encryption And Decryption",
+        "text": "Game Files Encoding",
         "link": "/topics/localfiles_encrypt_decrypt"
       },
       {
