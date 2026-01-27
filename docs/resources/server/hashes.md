@@ -43,7 +43,7 @@ function generateDownloadHash(levelString) {
 
 Segments:
 
-- Player ID of the creator
+- User ID of the creator
 - The stars the level awards
 - 0 if the level is not demon, 1 if the level is demon
 - The ID of the level
