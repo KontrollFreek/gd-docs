@@ -29,6 +29,7 @@ A list of all known keys can be found in the table below
 | 9 | iconID | **Integer** | maybe... [link](https://github.com/gd-programming/gddocs/pull/16/files#r417926661) |
 | 10 | color | **Integer** | First color of the player use |
 | 11 | color2 | **Integer** | Second color of the player use |
+| 12 | shipID | **Integer** | Deprecated key; the player's ship ID in 1.4 and 1.5. Was 0 if a cube was selected instead of a ship |
 | 13 | secretCoins | **Integer** | The count of coins player have |
 | 14 | iconType | **Integer** | The iconType of the player use |
 | 15 | special | **Integer** | The special number of the player use |
