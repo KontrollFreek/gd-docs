@@ -65,7 +65,10 @@
 |  21  | Daily history                                                                     |
 |  22  | Weekly history                                                                    |
 |  25  | Level list, uses `str` as the list ID                                             |
-|  26  | Unknown (same as type 19 but each page has up to 100 levels instead of 10 on it)  |
+|  26  | Local level list (same as type 19 but can return up to 100 levels)                |
+|  27  | Sent                                                                              |
+|  28  | GD Lite weekly levels                                                             |
+|  29  | GD Lite bonus levels (platformer)                                                 |
 
 </details>
 
