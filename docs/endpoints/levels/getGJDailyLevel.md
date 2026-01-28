@@ -30,7 +30,7 @@ Gets which daily level we're on and gets how much time is left.
 
 Returns the index of the current daily level and the time left in seconds, separated by a pipe `|`.
 
-Event levels also return the reward chest data and an integrity hash. Time left will always be `10` for event levels.
+Event levels also return the reward chest data and an integrity [hash](/resources/server/hashes.md#getgjrewards). Time left will always be `10` for event levels.
 
 ## Example
 
