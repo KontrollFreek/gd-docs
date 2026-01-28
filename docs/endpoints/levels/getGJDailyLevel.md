@@ -22,7 +22,7 @@ Gets which daily level we're on and gets how much time is left.
 
 **type** - 0 for daily, 1 for weekly, 2 for event level.
 
-**chk** - TODO (required for type 2)
+**chk** - (required for type 2) 5 random chars appended to the beginning of a random number [XOR](/topics/encryption/xor.md)'d and [URL-Safe Base64](/topics/encryption/base64.md) encoded. However, currently any string longer than 5 characters just works
 
 **weekly** - 0 for daily, 1 for weekly. Defaults to 0 if not sent. This parameter is outdated since 2.207
 
