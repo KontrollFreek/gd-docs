@@ -22,9 +22,6 @@ Recreation of Geometry Dash's interface available via the browser
 - **[GD Forums](https://gdforums.com/) by [Hyperbolus Team](https://github.com/hyperbolus)**  
 Community Forum which can interact with the Geometry Dash Servers
 
-- **[SPWN Language](https://github.com/Spu7Nix/SPWN-language) by [Spu7nix](https://github.com/Spu7Nix)**  
-Programming Language designed to create Geometry Dash levels
-
 - **[GD History](https://history.geometrydash.eu/) by [Cvolton](https://github.com/Cvolton)**  
 Preservation of Geometry Dash's history
 
@@ -44,3 +41,8 @@ Modded client for iOS which includes 30+ mods
 
 - **[BetterEdit](https://github.com/HJfod/BetterEdit) by [HJFod](https://github.com/HJfod/)**  
 An extension to the GD editor with many Quality of life enhancements
+
+### Historic Links
+
+- **[SPWN Language](https://github.com/Spu7Nix/SPWN-language) by [Spu7nix](https://github.com/Spu7Nix)**  
+Programming Language designed to create Geometry Dash levels
