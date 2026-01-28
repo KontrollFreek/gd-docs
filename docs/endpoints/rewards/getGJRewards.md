@@ -10,7 +10,7 @@ Gets the rewards from the chests.
 
 **secret** - Wmfd2893gb7
 
-**chk** - 5 random chars appended to the beginning of a random number [XOR](/topics/encryption/xor.md)'d and [URL-Safe Base64](/topics/encryption/base64.md) encoded
+**chk** - [Rewards CHK](/topics/encryption/rewards_chk) using the [chest rewards](/topics/encryption/xor.html#keys) key
 
 ### Optional Parameters
 

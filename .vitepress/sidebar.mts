@@ -4,6 +4,10 @@ export default [
     "link": "/changelog"
   },
   {
+    "text": "Credits",
+    "link": "/credits"
+  },
+  {
     "text": "Endpoints",
     "items": [
       {
@@ -544,6 +548,10 @@ export default [
             "link": "/topics/encryption/chk"
           },
           {
+            "text": "Rewards CHK",
+            "link": "/topics/encryption/rewards_chk"
+          },
+          {
             "text": "RS, UUID and UDID",
             "link": "/topics/encryption/id"
           },
@@ -608,9 +616,5 @@ export default [
       }
     ],
     "collapsed": false
-  },
-  {
-    "text": "Credits",
-    "link": "/credits"
   }
 ];

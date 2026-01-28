@@ -22,7 +22,7 @@ Gets which daily level we're on and gets how much time is left.
 
 **type** - 0 for daily, 1 for weekly, 2 for event level.
 
-**chk** - (required for type 2) 5 random chars appended to the beginning of a random number [XOR](/topics/encryption/xor.md)'d and [URL-Safe Base64](/topics/encryption/base64.md) encoded. However, currently any string longer than 5 characters just works
+**chk** (required for type 2) - [Rewards CHK](/topics/encryption/rewards_chk) using the [chest rewards](/topics/encryption/xor.html#keys) key
 
 **weekly** - 0 for daily, 1 for weekly. Defaults to 0 if not sent. This parameter is outdated since 2.207
 
@@ -67,3 +67,9 @@ curl -X POST http://www.boomlings.com/database/getGJDailyLevel.php -d "secret=Wm
 ```
 
 <!-- tabs:end -->
+
+## Changelog
+
+## 2.207
+
+In 2.207, the **weekly** parameter (0 for daily, 1 for weekly) was replaced with the **type** parameter. A [**chk**](/topics/encryption/rewards_chk) is now sent when the type is 2 (event levels).

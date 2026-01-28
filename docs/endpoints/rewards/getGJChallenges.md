@@ -10,7 +10,7 @@ Gets a user's quests.
 
 **secret** - Wmfd2893gb7
 
-**chk** - 5 random chars appended to the beginning of a random number [XOR](/topics/encryption/xor.md)'d and [base64](/topics/encryption/base64.md) encoded
+**chk** - [Rewards CHK](/topics/encryption/rewards_chk) using the [daily challenges](/topics/encryption/xor.html#keys) key
 
 ### Optional Parameters
 

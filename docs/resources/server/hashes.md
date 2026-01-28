@@ -80,7 +80,7 @@ The hash just takes the entire **undecoded** response string (excluding the 5 ch
 
 Salt: `oC36fpYaPtdg`
 
-## getGJRewards
+## getGJRewards/getGJDailyLevel/getGJSecretReward
 
 The hash is generated the same way as getGJChallenges, with the exception of a different salt.
 
