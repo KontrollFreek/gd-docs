@@ -4,16 +4,15 @@
 
 ## Parameters
 
-| Parameter       | Explanation                                                        | Optional |
-| :-------------- | :----------------------------------------------------------------- | -------- |
-| `gameVersion`   | The Game Version the player is playing on. 22 for 2.2              | `True`   |
-| `binaryVersion` | The current build the player playing on. 42 for 2.206              | `True`   |
-| `gdw`           | If the player is using Geometry Dash World                         | `True`   |
-| `comment`       | The message sent along with the friend request                     | `True`   |
-| `accountID`     | The player's account ID                                            | `False`  |
-| `toAccountID`   | The account which the player is trying to send a friend request to | `False`  |
-| `gjp2`          | The player's [GJP2](/topics/gjp.md)                                | `False`  |
-| `secret`        | The common secret: `Wmfd2893gb7`                                   | `False`  |
+| Parameter       | Explanation                                                        | Required |
+| --------------- | ------------------------------------------------------------------ | -------- |
+| `accountID`     | The player's account ID                                            | Yes      |
+| `toAccountID`   | The account which the player is trying to send a friend request to | Yes      |
+| `gjp2`          | The player's [GJP2](/topics/gjp.md)                                | Yes      |
+| `secret`        | The common secret: `Wmfd2893gb7`                                   | Yes      |
+| `gameVersion`   | The Game Version the player is playing on. 22 for 2.2              |          |
+| `binaryVersion` | The current build the player playing on. 42 for 2.206              |          |
+| `gdw`           | If the player is using Geometry Dash World                         |          |
 
 ## Response
 
