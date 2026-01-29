@@ -12,7 +12,7 @@
 | `comment`       | The message sent along with the friend request                     | `True`   |
 | `accountID`     | The player's account ID                                            | `False`  |
 | `toAccountID`   | The account which the player is trying to send a friend request to | `False`  |
-| `gjp2`          | The player's [GJP2](/topics/gjp.md)                     | `False`  |
+| `gjp2`          | The player's [GJP2](/topics/gjp.md)                                | `False`  |
 | `secret`        | The common secret: `Wmfd2893gb7`                                   | `False`  |
 
 ## Response
