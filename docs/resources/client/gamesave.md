@@ -42,6 +42,7 @@ Your CCGameManager.dat File contains a lot of information regarding your account
 | reportedAchievements                                     | Dictionary                                                 | contains a dictonary of all reported achievements on your account                   |
 | showSongMarkers                                          | Bool                                                       | if showSongMarkers is enabled                                                       |
 | showProgressBar                                          | Bool                                                       | if showProgressBar is enabled                                                       |
+| performanceMode                                          | Bool                                                       | If the global Low Detail Mode in settings is enabled                                |
 | clickedGarage                                            | Bool                                                       | if Garage has been clicked                                                          |
 | clickedEditor                                            | Bool                                                       | if Editor has been clicked                                                          |
 | clickedPractice                                          | Bool                                                       | if Practice mode button has been clicked                                            |
