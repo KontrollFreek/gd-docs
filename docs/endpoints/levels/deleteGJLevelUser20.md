@@ -9,7 +9,7 @@ Deletes a level from the server.
 | `accountID` | The level author's account ID                     | Yes      |
 | `gjp`       | The level author's [GJP](/topics/gjp.md)          | Yes      |
 | `levelID`   | The ID of the level being deleted                 | Yes      |
-| `secret`    | [Level Secret](/reference/secrets): `Wmfv2898gc9` | Yes      |
+| `secret`    | [Level Secret](/reference/secrets.md): `Wmfv2898gc9` | Yes      |
 
 ## Response
 

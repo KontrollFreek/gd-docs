@@ -7,7 +7,7 @@ Restores user's data; defunct as of the new save system
 | Parameter | Explanation                                                              | Required |
 | --------- | ------------------------------------------------------------------------ | -------- |
 | `udid`    | A unique identifier for the user's device, can be replaced with anything | Yes      |
-| `secret`  | [Common Secret](/reference/secrets): `Wmfd2893gb7`                       | Yes      |
+| `secret`  | [Common Secret](/reference/secrets.md): `Wmfd2893gb7`                       | Yes      |
 
 ## Response
 

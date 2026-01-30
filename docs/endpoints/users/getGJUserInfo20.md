@@ -7,7 +7,7 @@ Gets info about a user
 | Parameter         | Explanation                                        | Required |
 | ----------------- | -------------------------------------------------- | -------- |
 | `targetAccountID` | The account ID of the person you want the info of  | Yes      |
-| `secret`          | [Common Secret](/reference/secrets): `Wmfd2893gb7` | Yes      |
+| `secret`          | [Common Secret](/reference/secrets.md): `Wmfd2893gb7` | Yes      |
 | `gameVersion`     | 22                                                 |          |
 | `binaryVersion`   | 35                                                 |          |
 | `gdw`             | 0                                                  |          |

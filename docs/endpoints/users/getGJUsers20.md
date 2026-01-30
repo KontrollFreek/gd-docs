@@ -6,7 +6,7 @@ Searches for a user and returns their info
 
 | Parameter       | Explanation                                                     | Required |
 | --------------- | --------------------------------------------------------------- | -------- |
-| `secret`        | [Common Secret](/reference/secrets): `Wmfd2893gb7`              | Yes      |
+| `secret`        | [Common Secret](/reference/secrets.md): `Wmfd2893gb7`              | Yes      |
 | `gameVersion`   | 21                                                              | Yes      |
 | `binaryVersion` | 35                                                              | Yes      |
 | `gdw`           | 0                                                               |          |

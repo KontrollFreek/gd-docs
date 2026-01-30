@@ -8,7 +8,7 @@ Gets info about a newgrounds song.
 | Parameter       | Explanation                                              | Required |
 | --------------- | -------------------------------------------------------- | -------- |
 | `songID`        | The newgrounds ID of the song you want information about | Yes      |
-| `secret`        | [Common Secret](/reference/secrets): `Wmfd2893gb7`       | Yes      |
+| `secret`        | [Common Secret](/reference/secrets.md): `Wmfd2893gb7`       | Yes      |
 | `accountID`     |                                                          |          |
 | `binaryVersion` | 45                                                       |          |
 | `gameVersion`   | 22                                                       |          |

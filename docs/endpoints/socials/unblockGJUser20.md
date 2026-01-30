@@ -9,7 +9,7 @@ Unblocks a user.
 | `accountID`       | The unblocking person's account ID                 | Yes      |
 | `gjp2`            | The unblocking person's [GJP2](/topics/gjp.md)     | Yes      |
 | `targetAccountID` | The account ID of the person getting unblocked     | Yes      |
-| `secret`          | [Common Secret](/reference/secrets): `Wmfd2893gb7` | Yes      |
+| `secret`          | [Common Secret](/reference/secrets.md): `Wmfd2893gb7` | Yes      |
 | `gameVersion`     | 22                                                 |          |
 | `binaryVersion`   | 42                                                 |          |
 | `gdw`             | 0                                                  |          |

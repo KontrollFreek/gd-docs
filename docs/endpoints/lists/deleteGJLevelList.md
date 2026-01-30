@@ -11,7 +11,7 @@ Deletes a list from the server.
 | `uuid`          | The list author's UUID                            | Yes      |
 | `gjp2`          | The level author's [GJP2](/topics/gjp.md)         | Yes      |
 | `listID`        | The ID of the level being deleted                 | Yes      |
-| `secret`        | [Level Secret](/reference/secrets): `Wmfv2898gc9` | Yes      |
+| `secret`        | [Level Secret](/reference/secrets.md): `Wmfv2898gc9` | Yes      |
 | `gameVersion`   | 22                                                |          |
 | `binaryVersion` | 42                                                |          |
 
