@@ -111,6 +111,9 @@ These keys were used in old versions of the game but are now obsolete.
 | [GLM_18](/resources/client/gamesave/GLM.md#GLM_18) | Folder                                              | The Folder Names for saved levels                                                                       |
 | [GLM_19](/resources/client/gamesave/GLM.md#GLM_19) | Folder                                              | The Folder names for Local Levels                                                                       |
 | [GLM_20](/resources/client/gamesave/GLM.md#GLM_20) | [Templates](/resources/client/gamesave/template.md) | Your Smart Templates                                                                                    |
+| [GLM_21](/resources/client/gamesave/GLM.md#GLM_21) | [Lists](/resources/client/gamesave/list.md)         | Saved lists, only existed briefly in 2.200                                                              |
+| [GLM_22](/resources/client/gamesave/GLM.md#GLM_22) | [Lists](/resources/client/gamesave/list.md)         | Your favourited lists                                                                                   |
+| [GLM_23](/resources/client/gamesave/GLM.md#GLM_23) | Integer                                             | Current Event ID                                                                                        |
 
 ## GS
 
