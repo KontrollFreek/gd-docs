@@ -32,7 +32,7 @@ data = {
         "gameVersion": 21,
         "binaryVersion":35
         "accountID": 71, # a moderators accountID
-        "gjp": "********", # This would be the mods password encoded with GJP encryption
+        "gjp2": "********", # This would be the mods password encoded with GJP2 encryption
         "levelID": 128,
         "stars": 3,
         "feature": 0,

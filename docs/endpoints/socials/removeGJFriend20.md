@@ -29,7 +29,7 @@ import requests
 
 data = {
     'accountID': 173831, # DevExit's account ID
-    'gjp': "********", # This would be DevExit's password encoded with GJP encryption
+    'gjp': "********", # This would be DevExit's password encoded with GJP2 encryption
     'targetAccountID': 5317656,
     'secret': 'Wmfd2893gb7'
 }

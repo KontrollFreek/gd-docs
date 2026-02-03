@@ -64,7 +64,7 @@ data = {
     "gameVersion": 21,
     "binaryVersion": 35
     "accountID": 71,
-    "gjp": *********, #the GJP of the moderator
+    "gjp2": *********, #the GJP of the moderator
     "secret": "Wmfp3897gc3",
     "levelID": 4284013,
     "rating": 3
