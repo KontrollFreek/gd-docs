@@ -2,7 +2,7 @@
 
 Saves account data
 
-> [!NOTE]
+> [!IMPORTANT]
 > This page is under the `database/accounts` directory.
 
 > [!NOTE]
@@ -12,12 +12,12 @@ Saves account data
 
 | Parameter       | Explanation                                                                                                                                  | Required |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| `accountID`      | The username of the account to be added                                                                                                      | Yes      |
-| `gjp2`      | The password of the account to be added                                                                                                      | Yes      |
+| `accountID`     | The username of the account to be added                                                                                                      | Yes      |
+| `gjp2`          | The password of the account to be added                                                                                                      | Yes      |
 | `gameVersion`   | 22                                                                                                                                           | Yes      |
 | `binaryVersion` | 48                                                                                                                                           | Yes      |
 | `saveData`      | The save data for CCGameManager.dat compressed with gzip, then a semicolon `;` and the save data for CCLocalLevels.dat compressed with gzip. | Yes      |
-| `secret`        | [Account Secret](/reference/secrets.md): `Wmfv3899gc9`                                                                                          | Yes      |
+| `secret`        | [Account Secret](/reference/secrets.md): `Wmfv3899gc9`                                                                                       | Yes      |
 | `dvs`           | 3                                                                                                                                            |          |
 
 ## Response

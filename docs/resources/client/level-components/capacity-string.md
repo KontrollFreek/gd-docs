@@ -19,7 +19,8 @@ Each component of the Capacity String are tied to their own `CCSpriteBatchNode` 
 
 There are `5` different types of batchNodes. `4` of which the Capacity string uses
 
-**Note: BatchID 4 isn't used in the Capacity String**
+> [!NOTE]
+> BatchID 4 isn't used in the Capacity String
 
 | BatchID | Type             | Description                                                                                                      |
 | ------- | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -31,8 +32,8 @@ There are `5` different types of batchNodes. `4` of which the Capacity string us
 
 Each of these BatchNodeTypes are then divided into sub-categories based on certain properties the object has
 
-**Note: Index refers to order that the BatchNode can be found on the capacity string**  
-The names for each BatchNode were provided by [RobTop himself](https://twitter.com/RobTopGames/status/1415783982621413376?s=20)
+> [!NOTE]
+> Index refers to order that the BatchNode can be found on the capacity string. The names for each BatchNode were provided by [RobTop himself](https://twitter.com/RobTopGames/status/1415783982621413376?s=20)
 
 | Index | BatchNode               | Properties                            | zOrder |
 | ----- | ----------------------- | ------------------------------------- | ------ |

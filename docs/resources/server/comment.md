@@ -37,8 +37,6 @@ A list of all known keys can be found in the table below
 
 ## Comment Structure
 
-**Note:** Keys marked with an asterisk `*` do not affect `Account Comments`
-
 | Key  | Name/Value          | Type        | Description                                                                                                       |
 | ---- | ------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------- |
 | `1`  | levelID             | **Integer** | The levelID linked to the comment. This ID is negative if the comment is on a list                                |
@@ -54,9 +52,13 @@ A list of all known keys can be found in the table below
 | `11` | modBadge*           | **Integer** | The Mod Badge of a moderator commenting                                                                           |
 | `12` | moderatorChatColor* | **String**  | Comma separated list of the RGB values of the moderator's chat color - only appears if the players `modBadge > 0` |
 
+> [!NOTE]
+> Keys indicated with an asterisk (*) do not affect [`Account Comments`](#account-comment-example)
+
 ### User Structure
-  
-**Note:** These values are only returned through `Level Comments`
+
+> [!NOTE]
+> These values are only returned through `Level Comments`
 
 | Key  | Name/Value   | Type        | Description                                                                                      |
 | ---- | ------------ | ----------- | ------------------------------------------------------------------------------------------------ |

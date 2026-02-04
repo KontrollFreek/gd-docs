@@ -20,7 +20,8 @@ These are the properties that are important for a BaseColor:
 | Opacity  | **float**   | The alpha component of the BaseColor. Goes from `0` to `1`   |
 | Blending | **bool**    | The blending property of the BaseColor                       |
 
-**Note**: Blending causes the color to add its color properties by basically using the OpenGL blend mode `glBlendFunc(GL_SRC_ALPHA, GL_ONE)`
+> [!NOTE]
+> Blending causes the color to add its color properties by basically using the OpenGL blend mode `glBlendFunc(GL_SRC_ALPHA, GL_ONE)`
 
 ### PlayerColor
 This class contains a static color refering to one of the player's icon color along with opacity and blending.

@@ -19,7 +19,8 @@ A list of all known keys can be found in the table below
 
 ### Friend Request Structure
 
-**Note:** We will use "other user" to describe the user on the other side of the friend request, be it the receiving end or the sending end.
+> [!IMPORTANT]
+> We will use "other user" to describe the user on the other side of the friend request, be it the receiving end or the sending end.
 
 | Key  | Name/Value       | Type        | Description                                                                                              |
 | ---- | ---------------- | ----------- | -------------------------------------------------------------------------------------------------------- |

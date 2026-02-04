@@ -2,7 +2,7 @@
 
 This endpoint is used to log into a players Geometry Dash account.
 
-> [!NOTE]
+> [!IMPORTANT]
 > This page is under the `database/accounts` directory.
 
 ## Parameters

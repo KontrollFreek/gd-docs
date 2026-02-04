@@ -31,8 +31,8 @@ A list of all known keys can be found in the table below
 
 Here is a table which shows which `gauntletID` corresponds to a specific gauntlet
 
-<!-- table made with a json to mdtable script so it looks ugky :/-->
-Note: Bolded gauntlet names are the ones that are added in-game, and the rest are yet to be added
+> [!IMPORTANT]
+> Bolded gauntlet names are the ones that are added in-game, and the rest are yet to be added
 
 | ID   | Name          |
 | ---- | ------------- |

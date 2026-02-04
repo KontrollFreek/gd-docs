@@ -22,7 +22,8 @@ A list of all known keys can be found in the table below
 
 ### Message Structure
 
-**Note:** We will use "other user" to describe the user on the other side of the message, be it the receiving end or the sending end.
+> [!IMPORTANT]
+> We will use "other user" to describe the user on the other side of the message, be it the receiving end or the sending end.
 
 | Key | Name/Value     | Type        | Description                                                                                                                                    |
 | --- | -------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

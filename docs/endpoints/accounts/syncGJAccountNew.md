@@ -2,7 +2,7 @@
 
 Loads account data
 
-> [!NOTE]
+> [!IMPORTANT]
 > This page is under the `database/accounts` directory.
 
 > [!NOTE]
