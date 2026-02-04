@@ -63,16 +63,18 @@ all completed levels
 
 | Key | Value |
 |-----|-------|
-| `n_{levelID}`| beaten in normal Mode |
-| `c_{levelID}` | Completed level|
-| `d_{levelID}` | completed daily
-| `g_{levelID}` | completed gauntlet
-| `star_{levelID}` | Collected Stars|
-| `dstar_{timelyID}` | Collected Stars for daily|
+| `n_{levelID}`| Completed official level in normal mode |
+| `c_{levelID}` | Completed online level |
+| `pack_{packID}` | Completed Map Pack |
+| `d_{levelID}` | Completed daily |
+| `g_{levelID}` | Completed gauntlet |
+| `star_{levelID}` | Collected Stars |
+| `dstar_{timelyID}` | Collected Stars for daily |
 | `gstar_{levelID}` | Collected Stars for gauntlet |
 | `demon_{levelID}` | Collected Demon |
 | `ddemon_{timelyID}` | Collected Demon for weekly|
 | `gdemon_{levelID}` | Collected Demon for gauntlet|
+| `e_{levelID}` | Completed event |
 
 ## GS_3
 
