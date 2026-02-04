@@ -17,7 +17,7 @@ Likes a level, comment, etc.
 | `udid`          | The liking/disliking person's [udid](/topics/encryption/id#udid)                           |          |
 | `uuid`          | The liking/disliking person's [uuid](/topics/encryption/id#uuid)                           |          |
 | `like`          | 0 is dislike, 1 is like. Not sure what it defaults to if left out, but it can be left out. |          |
-| `chk`           | [See here](/topics/encryption/chk.md#like)                                                 |          |
+| `chk`           | [See Here](/topics/encryption/chk.md#like)                                                 |          |
 
 ## Response
 

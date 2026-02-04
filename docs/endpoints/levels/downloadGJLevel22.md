@@ -17,8 +17,8 @@ Downloads a user level and info so it can be played.
 | `uuid`          | The [uuid](/topics/encryption/id#uuid) of the user who is downloading the level                            |          |
 | `inc`           | Whether the amount of downloads should be incremented on the level (requires proper authentication)        |          |
 | `extras`        | Used to return some extra data when set to 1, but was disabled sometime in 2022                            |          |
-| `rs`            | [See here](/topics/encryption/id#rs)                                                                       |          |
-| `chk`           | [See here](/topics/encryption/chk#download-level)                                                          |          |
+| `rs`            | [See Here](/topics/encryption/id#rs)                                                                       |          |
+| `chk`           | [See Here](/topics/encryption/chk.md#download-level)                                                          |          |
 
 ## Response
 
